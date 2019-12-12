@@ -1,3 +1,3 @@
-const pkg = require('.index.js');
+const pkg = require('.index');
 
 pkg.log('Funciona!!');
