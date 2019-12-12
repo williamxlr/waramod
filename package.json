@@ -1,0 +1,22 @@
+{
+  "name": "waramod",
+  "version": "1.0.0",
+  "description": "WARA First Module Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamxlr/waramod.git"
+  },
+  "keywords": [
+    "waramod"
+  ],
+  "author": "williamxlr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamxlr/waramod/issues"
+  },
+  "homepage": "https://github.com/williamxlr/waramod#readme"
+}
