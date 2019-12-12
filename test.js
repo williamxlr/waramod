@@ -1,3 +1,3 @@
-const pkg = require('nombre-paquete');
+const pkg = require('.index.js');
 
 pkg.log('Funciona!!');
